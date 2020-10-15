@@ -2,6 +2,8 @@
 layout: post
 title: Template job post example
 date: 2020-10-10
+tags: senior remote
+category: Fulltime
 
 ## Job data
 submitter: template-creator
@@ -14,5 +16,4 @@ location: Slack
 salary: string
 url-out: url
 contact: url
-tags: senior remote
 ---

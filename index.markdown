@@ -2,9 +2,12 @@
 layout: home
 ---
 
-{% if site.posts.size > 0 %}
+{% for cat in site.categories %}
+  {% assign category = cat[0] %}
+  <h3>{{ category }}</h3>
+
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.categories[category] %}
       <li>
         {{ post.date | date: site.theme_config.date_format }}
 
@@ -14,4 +17,4 @@ layout: home
       </li>
     {% endfor %}
   </ul>
-{% endif %}
+{% endfor %}

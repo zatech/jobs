@@ -2,6 +2,8 @@
 layout: post
 title: SovTech Senior Javascript Software Engineer
 date: 2020-10-15
+category: Fulltime
+tags: senior javascript
 
 ## Job data
 submitter: Lloyd Becker
@@ -13,7 +15,6 @@ company-url: https://www.sovtech.co.za/
 location: South Africa (offices in Jhb & CT)
 salary: R60,000.00 (dependent on experience)
 url-out: https://sovtech.breezy.hr/p/9f8867e1eb93-senior-javascript-software-engineer
-tags: senior javascript
 ---
 
 At SovTech we design, build, deploy and maintain innovative custom software that gives our clients the opportunity to start, run and grow world class businesses :rocket: We are currently on the lookout for Software Engineers to join our team on a variety of projects that are kicking off over the next few months. Our teams are rapidly growing and we are looking for Developers at all levels that are passionate about building software for our World class clients.
