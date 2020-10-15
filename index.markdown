@@ -1,0 +1,17 @@
+---
+layout: home
+---
+
+{% if site.posts.size > 0 %}
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        {{ post.date | date: site.theme_config.date_format }}
+
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
