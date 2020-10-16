@@ -4,7 +4,6 @@ date: 2020-10-10
 category: Freelance
 
 ## Job data
-submitter: Marshall Khunou
 url-message: https://zatech.slack.com/archives/CA6AG7TKL/p1602673587069600
 jobtitle: Technology Developer (Software design & Architecture)
 company: Thought Capital

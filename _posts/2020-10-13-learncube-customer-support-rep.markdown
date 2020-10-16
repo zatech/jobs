@@ -5,7 +5,6 @@ tags: remote
 category: Fulltime
 
 ## Job data
-submitter: marije
 url-message: https://zatech.slack.com/archives/C1RAZB24S/p1602591916076700
 jobtitle: Customer Support Rep
 company: LearnCube

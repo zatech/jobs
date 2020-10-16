@@ -5,7 +5,6 @@ tags: remote devops
 category: Freelance
 
 ## Job data
-submitter: Eric Nitschke
 url-message: https://zatech.slack.com/archives/CA6AG7TKL/p1602508581065900
 jobtitle: Devops Engineer
 company: Violence Prevention Through Urban Upgrading (VPUU)

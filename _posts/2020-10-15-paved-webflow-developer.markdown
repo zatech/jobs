@@ -5,7 +5,6 @@ tags: remote
 category: Freelance
 
 ## Job data
-submitter: Claire Heginbotham
 url-message: https://zatech.slack.com/archives/CA6AG7TKL/p1602846260077800
 jobtitle: Webflow Developer
 company: Paved

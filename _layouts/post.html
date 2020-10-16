@@ -7,6 +7,12 @@ layout: default
 
 <table>
   <tr>
+    <td colspan="2">
+      <a href="{{ page.url-message }}">Original Post</a>
+    </td>
+  </tr>
+
+  <tr>
     <td>Job Title:</td>
     <td>{{ page.jobtitle }}</td>
   </tr>
@@ -43,20 +49,10 @@ layout: default
 
   {% if page.contact %}
     <tr>
-      <td>Contact Person:</td>
+      <td>Contact:</td>
       <td>{{ page.contact }}</td>
     </tr>
   {% endif %}
-
-  <tr>
-    <td>Submitted By:</td>
-    <td>
-      @<a
-        href="{{ page.url-message }}"
-        target="_blank"
-      >{{ page.submitter }}</a>
-    </td>
-  </tr>
 
   {% if page.url-out %}
     <tr>

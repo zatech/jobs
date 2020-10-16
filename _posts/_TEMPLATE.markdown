@@ -5,7 +5,6 @@ tags: senior remote
 category: Fulltime
 
 ## Job data
-submitter: template-creator
 url-message: url
 jobtitle: Senior Template Creator
 company: ZATech

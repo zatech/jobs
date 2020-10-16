@@ -5,7 +5,6 @@ category: Fulltime
 tags: firmware remote
 
 ## Job data
-submitter: Tim
 url-message: https://zatech.slack.com/archives/C1RAZB24S/p1602771338084400
 jobtitle: Embedded firmware developer / DSP engineer
 company: LifeQ

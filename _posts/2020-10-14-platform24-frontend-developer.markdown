@@ -5,7 +5,6 @@ tags: remote frontend
 category: Fulltime
 
 ## Job data
-submitter: Satsugaisha
 url-message: https://zatech.slack.com/archives/C1RAZB24S/p1602663147077700
 jobtitle: Frontend Developer
 company: Platform45

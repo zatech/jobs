@@ -5,7 +5,6 @@ tags: remote frontend react
 category: Freelance
 
 ## Job data
-submitter: Marc Fehr
 url-message: https://zatech.slack.com/archives/CA6AG7TKL/p1602753086072700
 jobtitle: React Developer
 company: The New Humanitarian

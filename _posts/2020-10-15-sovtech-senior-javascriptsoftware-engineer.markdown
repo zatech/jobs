@@ -5,7 +5,6 @@ category: Fulltime
 tags: senior javascript
 
 ## Job data
-submitter: Lloyd Becker
 url-message: https://zatech.slack.com/archives/C1RAZB24S/p1602747125081500
 jobtitle: Senior Javascript Software Engineer
 company: SovTech
