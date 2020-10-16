@@ -27,6 +27,7 @@ url: "https://jobs.zatech.co.za" # the base hostname & protocol for your site, e
 permalink: pretty
 # twitter_username: jekyllrb
 github_username: zatech
+google_analytics: UA-148001202-2
 
 # Build settings
 #theme: minima
