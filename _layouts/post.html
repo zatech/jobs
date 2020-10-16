@@ -27,15 +27,19 @@ layout: default
     </td>
   </tr>
 
-  <tr>
-    <td>Location:</td>
-    <td>{{ page.location }}</td>
-  </tr>
+  {% if page.location %}
+    <tr>
+      <td>Location:</td>
+      <td>{{ page.location }}</td>
+    </tr>
+  {% endif %}
 
-  <tr>
-    <td>Salary Range:</td>
-    <td>{{ page.salary }}</td>
-  </tr>
+  {% if page.salary %}
+    <tr>
+      <td>Salary Range:</td>
+      <td>{{ page.salary }}</td>
+    </tr>
+  {% endif %}
 
   {% if page.contact %}
     <tr>
