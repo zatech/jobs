@@ -3,6 +3,10 @@
   {%- include head.html -%}
 
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <div class="about-link">
+      <a href="{% link about.markdown %}">?</a>
+    </div>
+
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}

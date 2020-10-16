@@ -10,3 +10,12 @@ td {
 img {
   display: initial;
 }
+
+.about-link {
+  float: right;
+  margin: 5px;
+
+  a {
+    text-decoration: none;
+  }
+}
