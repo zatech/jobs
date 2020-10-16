@@ -10,7 +10,7 @@ layout: default
   {% endif %}
 </header>
 
-{% for cat in site.categories %}
+{% for cat in site.categories reversed %}
   {% assign category = cat[0] %}
   <h3>{{ category }}</h3>
 
